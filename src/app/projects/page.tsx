@@ -3,6 +3,40 @@
 import Link from "next/link";
 
 const moreProjects = [
+   {
+    title: "WatchPal : A Video Sharing Platform",
+    description:
+      "WatchPal is a video engagement platform that helps creators increase watch hours through user interaction and smart dashboard features.",
+    tech: "React.js · Node.js · MongoDB · Bootstrap · Express · REST API's",
+    github: "https://github.com/PayalKarn/pro-watch",
+    liveDemo: "https://pro-watch-frontend.onrender.com/",
+  },
+
+  {
+    title: "Waggy : E-commerce for Pet Products",
+    description:
+      "Feature-rich store with product filters, cart, and secure checkout for smooth shopping experience.",
+    tech: "React.Js ·Node.js ·REST APIs · Express.Js· MongoDb · Stripe",
+    github: "https://github.com/PayalKarn/Waggy-Pet",
+    liveDemo: "https://waggy-pfh0.onrender.com",
+  },
+  {
+    title: "Medilab – Comprehensive Healthcare Management System",
+    description:
+      "Medilab is a system that simplifies patient management, appointments, and medical records, making healthcare services faster and more efficient.",
+    tech: "React.Js ·Node.js ·REST APIs · Express.Js· MongoDb",
+    github: "https://github.com/PayalKarn/Medi-Lab",
+    liveDemo: "https://medilab-xkiy.onrender.com/",
+  },
+  {
+    title: "Face Recognition Attendance",
+    description:
+      "Attendance system using face recognition to automate check-in and improve accuracy.",
+    tech: "Python · OpenCV · SQL",
+    github:
+      "https://github.com/PayalKarn/Face-Recognization-Attendance-System-Software",
+    liveDemo: null,
+  },
   {
     title: "TaskMaster – ToDo Management Application",
     description:

@@ -1,4 +1,3 @@
-
 @import "tailwindcss";
 
 :root {
@@ -13,23 +12,31 @@
   --font-mono: var(--font-geist-mono);
 }
 
+/* Remove this whole prefers-color-scheme block
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
 }
-
+*/
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 5rem;
 }
 
+/* IMPORTANT: don't force dark here */
 body {
-  @apply bg-slate-950 text-slate-50 antialiased;
+  @apply bg-slate-50 text-slate-900 antialiased;
 }
 
+/* Dark mode styles when .dark class is on <html> (from next-themes) */
+html.dark body {
+  @apply bg-slate-950 text-slate-50;
+}
+
+/* rest unchanged */
 @keyframes spin-slow {
   from {
     transform: rotate(0deg);
