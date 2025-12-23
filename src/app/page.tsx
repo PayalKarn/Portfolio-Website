@@ -276,7 +276,7 @@ export default function Home() {
 
               <div className="flex flex-wrap gap-6 text-sm text-slate-400">
                 <a
-                  href="https://drive.google.com/file/d/1wOZ-EZEpdoJAxAz3WOFqi26-RCBLtN4-/view?usp=drivesdk"
+                  href="https://drive.google.com/file/d/1wOZ-EZEpdoJAxAz3WOFqi26-RCBLtN-/view?usp=drivesdk"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-xl bg-sky-500 px-5 py-3 text-sm md:text-base font-semibold text-slate-950 shadow-lg shadow-sky-500/30 hover:bg-sky-400 hover:shadow-sky-500/50 transition"
@@ -480,7 +480,7 @@ export default function Home() {
                 </p>
               </div>
               <a
-                href="https://drive.google.com/file/d/1wOZ-EZEpdoJAxAz3WOFqi26-RCBLtN4-/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1wOZ-EZEpdoJAxAz3WOFqi26-RCBLtN-/view?usp=drivesdk"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl bg-sky-500 px-5 py-3 text-sm md:text-base font-semibold text-slate-950 shadow-lg shadow-sky-500/30 hover:bg-sky-400 hover:shadow-sky-500/50 transition"
