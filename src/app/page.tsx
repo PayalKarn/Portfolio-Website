@@ -431,12 +431,14 @@ export default function Home() {
                 <div className="relative flex gap-4">
                   <div className="mt-1 h-3 w-3 rounded-full bg-sky-400 border-2 border-slate-950 shadow-[0_0_12px_rgba(56,189,248,0.8)]" />
                   <div className="space-y-1">
-                    <p className="text-xs font-semibold text-sky-400">2025</p>
+                    <p className="text-xs font-semibold text-sky-400">
+                      May 2026 - Present
+                    </p>
                     <h2 className="md:text-xl text-slate-700/50 font-bold">
-                      A2IT InternEdge
+                      Zygobit
                     </h2>
                     <h3 className="text-lg md:text-xl font-semibold text-slate-50">
-                      Full-Stack Developer
+                      MERN Stack Developer
                     </h3>
                   </div>
                 </div>
@@ -445,13 +447,28 @@ export default function Home() {
                   <div className="mt-1 h-3 w-3 rounded-full bg-emerald-400 border-2 border-slate-950 shadow-[0_0_12px_rgba(52,211,153,0.8)]" />
                   <div className="space-y-1">
                     <p className="text-xs font-semibold text-emerald-400">
-                      2025
+                      April 2025 - May 2026
                     </p>
                     <h2 className="md:text-xl text-slate-700/50 font-bold">
                       Hexamind Technology
                     </h2>
                     <h3 className="text-lg md:text-xl font-semibold text-slate-50">
                       Software Developer
+                    </h3>
+                  </div>
+                </div>
+
+                <div className="relative flex gap-4">
+                  <div className="mt-1 h-3 w-3 rounded-full bg-violet-400 border-2 border-slate-950 shadow-[0_0_12px_rgba(167,139,250,0.8)]" />
+                  <div className="space-y-1">
+                    <p className="text-xs font-semibold text-violet-400">
+                      October 2024 - March 2025
+                    </p>
+                    <h2 className="md:text-xl text-slate-700/50 font-bold">
+                      Academic Advancement of Information &amp; Technology (A2IT)
+                    </h2>
+                    <h3 className="text-lg md:text-xl font-semibold text-slate-50">
+                      MERN Stack Developer
                     </h3>
                   </div>
                 </div>
